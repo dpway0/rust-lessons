@@ -1,0 +1,9 @@
+# -------- Rust / Cargo --------
+/target/
+/**/target/
+**/*.rs.bk
+
+# -------- OS junk --------
+.DS_Store
+Thumbs.db
+Desktop.ini
