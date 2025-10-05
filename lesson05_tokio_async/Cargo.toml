@@ -1,0 +1,9 @@
+[package]
+name = "lesson05_tokio_async"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+reqwest = "0.12.23"
+tokio = {version = "1", features = ["full"]}
