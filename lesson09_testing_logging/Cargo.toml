@@ -1,0 +1,11 @@
+[package]
+name = "lesson09_testing_logging"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+log = "0.4"
+env_logger = "0.11"
+
+[dev-dependencies]
+once_cell = "1"
